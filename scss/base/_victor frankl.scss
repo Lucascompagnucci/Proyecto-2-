@@ -1,0 +1,43 @@
+
+/*victor frankl*/
+.victor-frankl {
+
+    .grid-imagenes {
+        display: $grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        text-align: $align;
+        
+        
+          }
+       
+          .box1{
+            width: 161px;
+            border-radius: 176px;
+          }
+
+          .box2{
+            width: 204px;
+            border-radius: 139px;
+          }
+
+          .box3{
+            width: 263px;
+            border-radius: 90px;
+            margin-top: 28px;
+          }
+          
+        .card-img-top:hover{
+          
+        
+          animation: bounce; 
+          animation-duration: 1s; 
+        }
+  
+         
+      .victor-f{
+        margin-top: 40px;
+      }
+
+      
+      
+}

@@ -1,0 +1,192 @@
+@media only screen and (max-width: 400px){
+    .logo-footer{
+        width: 120px !important; 
+    }
+
+    /* fundacion logoterapia */
+
+    .parrafo-logoterapia{
+        font-size: 18px;
+        margin-top: 400px;
+        margin-left: -372px;
+    }
+
+    .h1-logoterapia{
+        margin-right: -226px;
+    }
+   
+    /* profesionales */
+
+    .h1-profesionales{
+        margin-right: -226px;
+    }
+
+    .d-flex{
+        position: relative;
+        left: 107px;
+    } 
+    .contenedor-profesionales{
+        margin-left: 20px;
+
+    }
+    
+    .card{
+        margin-right: 10px;
+    }
+       
+    .elemento-profesionales{
+        margin-right: 98px;
+    }
+    /* victor frankl*/
+
+    .h1-victor{
+        margin-right: -226px;
+    }
+
+   .victor-f{
+       font-size: 18px;
+       text-align: center;
+       margin-right: -221px;
+   }
+    
+
+   /* encontranos */
+
+   .h1-encontranos{
+    margin-right: -221px;
+   }
+
+   .contenido-mapa{
+    position: relative;
+    top: 610px;
+    right: 504px;
+   }
+
+
+   /* formulario */
+
+   .h2-formulario{
+    margin-right: -221px;
+   }
+
+
+
+   /*footer*/
+   footer{ 
+     width: 620px;
+   
+       
+        .grid-footer {
+           width: 100%;
+        }
+        .texto-footer{
+            
+            margin: auto;
+        }
+
+        .h3-footer{
+        font-size: 15px;
+        margin-left: -20px;
+        
+        }
+
+        .logo-footer{
+            margin: auto;
+        }
+
+        }
+  
+    
+}
+
+/* fin de mobile */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+   
+    /* fundacion logoterapia*/
+    .parrafo-logoterapia{
+       
+        text-align: left;
+    }
+
+
+/* profesionales */
+
+ .contenedor-profesionales1{
+    margin-left: -39px
+ }
+.conteiner{
+    
+    margin-left: 162px;
+
+}
+ .contenedor-profesionales{
+    margin-left: -446px
+ }
+
+ .h1-logoterapia{
+    width: 916px;
+ }
+
+ .h1-profesionales{
+    width: 916px;
+ }
+
+ /* Victor frankl */
+
+.h1-victor{
+    width: 916px;
+}
+
+.victor-f{
+    text-align: center;
+    position: relative;
+    left: 84px;
+}
+
+.grid-imagenes{
+    margin-left: 173px
+}
+
+.box1{
+    margin-right: 12px;
+}
+
+.box2{
+    margin-right: 10px
+}
+
+
+/* encontranos */
+.h1-encontranos{
+    width: 916px;
+}
+
+.mapa{
+    width: 400px;
+}
+.contenido-comunicate{
+    margin-left: -52px;
+}
+
+/* formulario */
+.h2-formulario{
+    width: 916px;
+}
+
+.form-contact {
+	width: 50%;
+	font-family: "Arial", Times, serif;
+  }
+
+/* footer */
+ footer{
+    width: 917px;
+ }
+}
+
+
+	
+ 
+
+

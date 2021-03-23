@@ -1,0 +1,7 @@
+body{
+  @extend %body;
+
+  h1{
+    @extend %h1;
+}
+}
